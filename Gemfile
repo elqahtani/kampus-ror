@@ -55,7 +55,8 @@ gem 'materialize-sass'
 gem 'jquery-rails'
 gem 'devise'
 
-
+gem 'mina', require: false
+gem 'mina-puma', require: false,  github: 'untitledkingdom/mina-puma'
 
 
 
